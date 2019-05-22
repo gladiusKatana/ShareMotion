@@ -1,7 +1,5 @@
 //  SensorData.swift
-//  MotionRecorder
-//  Created by Lan, Rick on 2018/06/26.
-//  Copyright © 2018 Lan, Rick. All rights reserved.
+//  MotionRecorder  ∙  1st commit May 18, 2019  ∙  Created by Garth Snyder (a.k.a. gladiusKatana ⚔️)
 //import Foundation
 //import UIKit
 //import CoreMotion
