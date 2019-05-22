@@ -16,6 +16,7 @@
 		0659B1B1228EE55A004B6473 /* WriteSensorData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0659B1AB228EE55A004B6473 /* WriteSensorData.swift */; };
 		0659B1B2228EE55A004B6473 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0659B1AC228EE55A004B6473 /* Main.storyboard */; };
 		0659B1B3228EE55A004B6473 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0659B1AD228EE55A004B6473 /* AppDelegate.swift */; };
+		0688273B229500A60029F726 /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0688273A229500A60029F726 /* Notes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		0659B1AB228EE55A004B6473 /* WriteSensorData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WriteSensorData.swift; sourceTree = "<group>"; };
 		0659B1AC228EE55A004B6473 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		0659B1AD228EE55A004B6473 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0688273A229500A60029F726 /* Notes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		0659B191228EE51D004B6473 /* ShareMotion */ = {
 			isa = PBXGroup;
 			children = (
+				0688273A229500A60029F726 /* Notes.swift */,
 				0659B1AD228EE55A004B6473 /* AppDelegate.swift */,
 				0659B1AA228EE55A004B6473 /* ViewController.swift */,
 				0659B1A8228EE55A004B6473 /* QueuedUpdates.swift */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0659B1B3228EE55A004B6473 /* AppDelegate.swift in Sources */,
+				0688273B229500A60029F726 /* Notes.swift in Sources */,
 				0659B19B228EE51D004B6473 /* ShareMotion.xcdatamodeld in Sources */,
 				0659B1B1228EE55A004B6473 /* WriteSensorData.swift in Sources */,
 				0659B1AE228EE55A004B6473 /* QueuedUpdates.swift in Sources */,
